@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/whoisusmanali/whoisusmanali/blob/main/Google_Cloud_DataAnalytics-Bannergif.gif)
 
 <h1 align="center">Hi 👋, I'm Usman Ali</h1>
-<h3 align="left">I'm interested in data science, machine learning, Deep learning, and how they work together. I work in these areas and apply this knowledge to help companies make accurate decisions rather than exaggeration.</h3>
+<h3 align="left">Expert of data science, machine learning, Deep learning, and how they work together. I work in these areas and apply this knowledge to help companies make accurate decisions rather than exaggeration.</h3>
 
 <h1 align="center">Tools Expert with</h1>
 
