@@ -78,7 +78,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisusmanali&show_icons=true&locale=en&layout=compact" alt="whoisusmanali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoisusmanali&show_icons=true&locale=en" alt="whoisusmanali" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoisusmanali&" alt="whoisusmanali" /></p>
 
